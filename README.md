@@ -19,6 +19,12 @@ Também utilizei como estudo o tão falado tailwind para realizar a estilizaçã
 * JSONPlaceholder API
 * tailwind
 
+## 🛠️ Após baixar, como rodar?
+* Efetue o git clone ou baixe a pasta zip.
+* Abra o  terminal e utilize a navegação por pastas no terminal para chegar a pasta do projeto
+* Execute o comando **npm install**
+* Logo depois basta executer um **npm start**  
+
 ## Contatos
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-souza-07754415b/)]( https://www.linkedin.com/in/caio-souza-07754415b/)
 ## 
