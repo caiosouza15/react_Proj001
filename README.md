@@ -1,5 +1,9 @@
 # Projeto galeria de fotos
 
+<p align="center"> 
+  <img  width="490" height="300" scr="scr/assets/to_headme/ezgif.com-gif-maker" >
+</p>
+
 Olá, obrigado pela visita mais uma vez, vamos de mais um projeto?! Bom esse projeto tem como ideia o estudo de requisição a API usando axios, construção e envio de parametros via QueryString assim como também a utilização de alguns hooks como:
 * useEffect
 * useState
